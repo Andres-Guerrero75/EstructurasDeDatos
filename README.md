@@ -8,7 +8,7 @@ Proyecto final de Estructuras de datos - 4 semestre. Implementación del juego "
 - [Jose Manuel Galvez Ruge]
 - [Santiago Alejandro David Chamorro]
 - [Andres Felipe Guerrero]
-- [John Janer Galidez Pipicano]
+- [Jhon Janer Galidez Pipicano]
 
 ## Estructuras utilizadas
 - ListaEnlazada: Para manejar la baraja inicial.
